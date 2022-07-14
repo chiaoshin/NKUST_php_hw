@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+/* and last but not the least stylesheet file that makes pretty view of  */
+*
+{
+	margin:0;
+	padding:0;
+}
+body
+{
+	background:#f9f9f9;
+	font-family:"Courier New", Courier, monospace;
+}
+/* 50px */
+#header
+{
+	width:100%;
+	height: 120px; 
+	/* background:#00a2d1; */
+	background:#E7CB84;
+	color:#f9f9f9;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:35px;
+	text-align:center;
+}
+#header a
+{
+	color:#fff;
+	text-decoration:blink;
+}
+html{
+    background: #DCD5C3;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+}
+.header{
+    background: #E7CB84;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mid{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: 20px;
+}
+h1{
+    color: black;
+}
+
+
+/* bar css */
+/* RWD的css reset */
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+li a {
+    font-size: 30px;
+    line-height: 30px;
+    padding: 16px;
+    color: #ffffff;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+li a:link{
+    color:#ffffff;
+}
+li a:visited{
+    color:#414141;
+}
+li a:hover{
+    /* color: #414141; */
+    background-color: #e4b51a;
+    
+}
+li a{
+    text-decoration: none;
+}
+
+/* main.php header*/
+.mid2 li a{
+    font-size: 26px;
+    line-height: 30px;
+    padding: 16px;
+    color: #ffffff;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+.footer,center,body{
+    background: #DCD5C3;
+}
+#body{
+    background: #DCD5C3;
+}
+table{
+    border-color: #000000;
+}
+
+/* index2.php */
+.welcome h2{
+    margin-top: 50px;
+    color: #414141;
+}
+
+/* add_data.php */
+
+/* main.php dropdown */
+mid3{
+    font-size: 25px;
+}
