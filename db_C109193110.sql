@@ -18,10 +18,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- 資料庫: `db_c109193110` 改 sql6511363(免費線上資料庫)
+-- 資料庫: `db_c109193110` 改 heroku_d0e242e673f9bf8(免費線上資料庫)
 --
-CREATE DATABASE IF NOT EXISTS `sql6511363` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `sql6511363`;
+CREATE DATABASE IF NOT EXISTS `heroku_d0e242e673f9bf8` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `heroku_d0e242e673f9bf8`;
 
 -- --------------------------------------------------------
 
