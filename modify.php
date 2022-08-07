@@ -25,7 +25,7 @@ else {
 
   //執行 SELECT 陳述式取得使用者資料
   $sql = "SELECT * FROM account Where sn = $id";
-  $result = execute_sql($link, "db_C109193110", $sql);
+  $result = execute_sql($link, "heroku_d0e242e673f9bf8", $sql);
 
   $row = mysqli_fetch_assoc($result);
 ?>
