@@ -1,5 +1,6 @@
 mysql://b80e85098a90d4:5af417f0@us-cdbr-east-06.cleardb.net/heroku_d0e242e673f9bf8?reconnect=true
 
+XAMPP更改inc
 Username:b80e85098a90d4
 Password:5af417f0
 Host:us-cdbr-east-06.cleardb.net
