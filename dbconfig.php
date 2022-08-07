@@ -4,7 +4,7 @@ $host = "localhost";
 $user = "root";
 $password = "";
 // $datbase = "dbtuts";
-$datbase = "db_C109193110";
+$datbase = "sql6511363";
 $link = mysqli_connect($host, $user, $password, $datbase);
 // mysql_select_db($datbase);
 
